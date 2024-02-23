@@ -1,3 +1,7 @@
+The date I went through the Get Lab Tutorials:02/20/2024
+Dates I set up the GitHub account: 02/20/2024
+
+
 1. console output from step 3.C:
 [master 1db4b26] Add empty answers.txt file inside docs folder
  1 file changed, 0 insertions(+), 0 deletions(-)
